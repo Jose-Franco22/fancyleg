@@ -1,0 +1,30 @@
+Wed Feb 19 15:40:12 2025
+WARNING: mju_openResource: unknown file 'model/assets/myolegs_assets.xml'
+
+Wed Feb 19 15:40:58 2025
+WARNING: mju_openResource: unknown file 'model//home/frank/Desktop/fancyleg/assets/myotorso_rigid_assets.xml'
+
+Wed Feb 19 15:43:50 2025
+WARNING: mju_openResource: unknown file 'model//home/frank/Desktop/fancyleg/assets/myotorso_rigid_assets.xml'
+
+Wed Feb 19 15:44:08 2025
+WARNING: mju_openResource: unknown file 'model/assets/myotorso_rigid_assets.xml'
+
+Wed Feb 19 15:44:20 2025
+WARNING: mju_openResource: unknown file 'model/tendons/myolegs_tendon.xml'
+
+Wed Feb 19 15:45:16 2025
+WARNING: mju_openResource: unknown file 'model/../leg/assets/myolegs_chain.xml'
+
+Wed Feb 19 15:45:52 2025
+WARNING: mju_openResource: unknown file 'model/../torso/assets/myotorso_rigid_assets.xml'
+
+Wed Feb 19 15:46:29 2025
+WARNING: mju_openResource: unknown file 'model/../assets/myotorso_rigid_chain.xml'
+
+Wed Feb 19 15:47:09 2025
+WARNING: mju_openResource: unknown file 'model//home/frank/Desktop/fancyleg/assets/myotorso_rigid_assets.xml'
+
+Wed Feb 19 15:47:36 2025
+WARNING: mju_openResource: unknown file 'model/../assets/myotorso_rigid_chain.xml'
+
